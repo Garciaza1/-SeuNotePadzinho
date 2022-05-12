@@ -1,2 +1,2 @@
-# teste
-apenas um teste
+APP (WINFROMS) Notepad -SeuNotePadzinho
+um bloco de notas simples com funções simples e que embreve sera estilizado...
