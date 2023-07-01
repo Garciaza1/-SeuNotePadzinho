@@ -1,2 +1,2 @@
-APP (WINFROMS) Notepad -SeuNotePadzinho
+APP (WINFORMS) Notepad -SeuNotePadzinho
 Um bloco de notas simples com funções simples e que embreve sera estilizado...
